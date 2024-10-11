@@ -1,7 +1,6 @@
 import re
 from enum import StrEnum, auto
 from pathlib import Path
-from turtle import up
 from typing import Annotated, Self
 
 import typer
